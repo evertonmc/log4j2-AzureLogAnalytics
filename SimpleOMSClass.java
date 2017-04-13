@@ -7,7 +7,7 @@ import java.net.URL;
 import javax.net.ssl.HttpsURLConnection;
 import javax.xml.bind.DatatypeConverter;
 
-public class SimpleClass {
+public class SimpleOMSClass {
 
 	public static void main(String[] args) {
 
